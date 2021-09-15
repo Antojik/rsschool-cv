@@ -14,3 +14,45 @@ My strengths:
 1. Good teammate
 1. Initiative 
 1. funny 
+
+# Skills
+
+* HTML
+* CSS(Bootstrap)
+* JS
+* C++
+* VB
+* Git
+* React
+
+# Code Examples
+
+```
+function absentVowel(x){
+ if (x.includes('a')){
+   if(x.includes('e')){
+     if(x.includes('i')){
+       if(x.includes('o')){
+         if(x.includes('u')){
+           
+         }
+         else return 4;
+       }
+       else return 3;
+     }
+     else return 2;
+   }
+   else return 1;
+ }
+  else return 0;
+   
+}
+```
+
+# Education 
+
+*GrSU of Yanka Kupala - phystech*
+
+# Language 
+
+*English A1(A2 in process)*
