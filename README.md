@@ -1,1 +1,0 @@
-https://Antojik.github.io/rsschool-cv/cv
