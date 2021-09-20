@@ -1,0 +1,153 @@
+body {
+    margin: unset;
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(15, 18, 29);
+}
+
+p{
+    padding: unset;
+    margin: unset;
+}
+
+.main-div {
+    box-shadow: 0px 0px 20px 20px rgba(0, 0, 0, 0.541);
+    margin: 0 auto;
+    height: 100%;
+    width: 800px;
+}
+
+header {
+    display: flex;
+    color: rgba(50, 61, 93, 1);
+    background-color: rgba(186, 169, 162, 1);
+}
+
+header h1 {
+    margin: 70px 0px 0px 70px;
+    text-transform: uppercase;
+}
+
+header ul {
+    padding: unset;
+    margin: unset;
+    margin: 40px 0px 0px 25px;
+}
+header ul > li {
+    text-transform: uppercase;
+    list-style-type: none;
+    padding: 0px 20px 40px 20px;
+}
+
+header hr {
+    border-color: rgba(50, 61, 93, 1);
+    margin: unset;
+    width: 360px;
+    margin: 25px 0px 0px 60px;
+}
+
+
+a{
+    text-decoration: none;
+    color: rgba(50, 61, 93, 1);
+}
+
+a:hover{
+    text-decoration: none;
+    color: white;
+    transition-duration: 500ms;
+}
+
+#list-first {
+    display:inline;
+}
+
+#list-second {
+    display:inline;
+}
+
+#list-third {
+    padding: 20px 0px 0px 150px;
+}
+
+main {
+    background-color: rgba(55,62,91,1);
+    color: whitesmoke;
+    text-transform: uppercase;
+}
+
+main  hr {
+    border-color: whitesmoke;
+    margin: unset;
+    width: 700px;
+    margin: 0px 0px 0px 50px;
+}
+
+article {
+    text-align: center;
+    padding: 30px 40px;
+}
+
+section {
+    text-align: center;
+}
+
+#photo {
+    width: 250px;
+    border-radius: 30px;
+    margin: 50px 0px 50px 70px;
+}
+
+h2 {
+    padding: unset;
+    margin: 30px 0px 20px 0px;
+    text-align: center;
+}
+
+pre {
+    margin-left: 315px;
+}
+
+.Code-example hr{
+    margin-left: 315px;
+    margin: 45px 0px 0px 50px;
+}
+
+.Skills ul {
+    padding: unset;
+    margin: unset;
+}
+
+.Skills ul > li {
+    line-height: 40px;
+    font-weight: bold;
+    list-style-type: none;
+}
+
+.skills-list-first-string{
+    margin: 5px 10px 0px 150px;
+    display: inline;
+}
+
+.skills-list-second-string{
+    margin: 0px 10px 0px 130px;
+    display: inline; 
+}
+
+footer{
+    background-color: rgba(186, 169, 162, 1);
+}
+
+#GitImg {
+    margin: 10px 0px -5px 20px;
+    width: 80px;
+}
+#RSSImg {
+    margin: 0px 0px 0px 210px;
+    width: 170px;
+}
+
+footer p{
+    display: inline;
+    font-size: 76px;
+    margin: -5px 0px 0px 120px;
+}
